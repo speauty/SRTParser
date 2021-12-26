@@ -7,7 +7,6 @@ int main()
 	sp->RenderWindow();
 	delete sp;
 
-	//std::cout << "parser" << std::endl;
 	std::cout << std::endl;
 	system("pause");
 }
